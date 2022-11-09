@@ -1,0 +1,7 @@
+data/MNIST/*
+images/*
+.ipynb_checkpoints
+.DS_Store
+runs/*
+random/*
+__pycache__/*
